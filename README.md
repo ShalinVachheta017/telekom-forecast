@@ -1,6 +1,6 @@
 
 
-# 📊 Telekom Finance Forecasting (In Progress)
+# 📊 Telecom Finance Forecasting (In Progress)
 
 This project aims to forecast and analyze key financial KPIs in the telecom industry using advanced data science methodologies. Built using real-world data from the Kaggle Telecom Revenue Assurance Dataset, this work aligns with the Deutsche Telekom “Start up!” trainee program, emphasizing finance, analytics, and actionable business outcomes.
 
