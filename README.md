@@ -2,6 +2,28 @@
 
 # 📊 Telecom Finance Forecasting (In Progress)
 
+## Project Summary
+
+### What is this project?
+This is an in-progress project about understanding telecom revenue and forecasting trends.
+
+### Why is it interesting?
+A company can plan better when it understands past revenue and usage patterns.
+
+### How does it work?
+The proposed workflow prepares revenue and usage data, computes business measures, and applies forecasting models.
+
+### Real-life example
+A telecom team wants to estimate next-quarter revenue using past records.
+
+### What did I learn?
+I am exploring revenue analysis, time-series forecasting, and visual reporting.
+
+---
+
+## Technical Documentation
+
+
 This project aims to forecast and analyze key financial KPIs in the telecom industry using advanced data science methodologies. Built using real-world data from the Kaggle Telecom Revenue Assurance Dataset, this work aligns with the Deutsche Telekom “Start up!” trainee program, emphasizing finance, analytics, and actionable business outcomes.
 
 ---
