@@ -4,20 +4,9 @@
 
 ## Project Summary
 
-### What is this project?
-This is an in-progress project about understanding telecom revenue and forecasting trends.
+Imagine a telecom company trying to plan its revenue for the coming months. It needs to understand past income, subscriptions, and customer usage. This in-progress project explores how data analysis and forecasting could help with that. The challenge is turning different business records into useful measures and future estimates.
 
-### Why is it interesting?
-A company can plan better when it understands past revenue and usage patterns.
-
-### How does it work?
-The proposed workflow prepares revenue and usage data, computes business measures, and applies forecasting models.
-
-### Real-life example
-A telecom team wants to estimate next-quarter revenue using past records.
-
-### What did I learn?
-I am exploring revenue analysis, time-series forecasting, and visual reporting.
+The planned workflow prepares the data, studies revenue trends, and tries forecasting methods. For example, a team could use past information to estimate next quarter's revenue. I am learning how time-based prediction and financial analysis work together. This repository is still in progress, so planned features are not presented as completed results.
 
 ---
 
