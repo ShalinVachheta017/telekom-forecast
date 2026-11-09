@@ -64,8 +64,8 @@ telekom\_forecast\_project/
 
 ### 1. Clone and install dependencies:
 ```bash
-git clone https://github.com/<your-username>/telekom-forecast-project.git
-cd telekom-forecast-project
+git clone https://github.com/ShalinVachheta017/telekom-forecast.git
+cd telekom-forecast
 pip install -r requirements.txt
 ````
 
